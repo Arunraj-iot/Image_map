@@ -47,7 +47,7 @@ Execute the programs and publish them.
 </html>
 ```
 # OUTPUT
-![Screenshot 2024-11-25 112247](https://github.com/user-attachments/assets/b014af2d-2b9c-42b0-bc52-e46a925ea93b)
+![Screenshot 2024-12-12 132849](https://github.com/user-attachments/assets/201e92b6-b04f-417d-a256-9ea4f200f283)
 
 
 # RESULT
